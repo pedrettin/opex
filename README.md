@@ -1,2 +1,2 @@
 # opex
-An opex system
+Repo to store infrastructure code of my opex system
